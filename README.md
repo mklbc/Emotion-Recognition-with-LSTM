@@ -1,4 +1,5 @@
 # Emotion-Recognition-with-LSTM
+[Emotion Recognition with LSTM.pdf](https://github.com/user-attachments/files/19738684/Emotion.Recognition.with.LSTM.pdf)
 
  Introduction
 
